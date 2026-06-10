@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production builds
+frontend/dist/
+
+# Python Virtual Environments
+.venv/
+env/
+venv/
+backend/venv/
+
+# Python caching
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# IDEs and configuration files
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Logs and runtime caches
+*.log
+.eslintcache
+.parcel-cache
+.cache
