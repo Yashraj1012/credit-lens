@@ -1,5 +1,8 @@
 # CreditLens — Credit Risk Assessment Dashboard
 
+**Live Demo:** [https://credit-lens-black.vercel.app/](https://credit-lens-black.vercel.app/)  
+**Backend API:** [https://credit-lens-y4c0.onrender.com/](https://credit-lens-y4c0.onrender.com/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![React 19](https://img.shields.io/badge/React-19-cyan.svg)](https://react.dev/)
