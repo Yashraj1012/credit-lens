@@ -12,32 +12,6 @@ Borrower credit risk assessment form inputs are fed into a trained **Random Fore
 
 ---
 
-## 📸 Screenshots
-
-To populate this section, place your screen captures in the [screenshots/](file:///Users/yashrajmishra247/Downloads/creditRiskPrediction/screenshots/) directory.
-
-### Portfolio Risk Monitor (Dashboard)
-![Dashboard View](screenshots/dashboard.png)
-*Displays key performance indicators (KPIs), global feature drivers, risk distribution ratios, and confusion matrix evaluations.*
-
-### Credit Risk Assessment Console
-![Risk Assessment View](screenshots/risk_assessment.png)
-*The interactive calculator for submitting borrower profiles and viewing real-time default probability metrics.*
-
-### Developer Diagnostics & Local Risk Drivers
-![Developer Diagnostics View](screenshots/developer_diagnostics.png)
-*Detailed collapsible diagnostics panel showing raw input values, one-hot encoded model arrays, confidence thresholds, and tree-path attributions.*
-
-### Model Analytics & Performance Evaluation
-![Model Analytics View](screenshots/model_analytics.png)
-*Detailed ROC Curves, Precision-Recall Curves, and active model comparisons.*
-
-### Technical Model Specifications (About Model)
-![About Model View](screenshots/about_model.png)
-*Explains training pipelines, features, one-hot encoding baselines, and API responses.*
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technologies |
@@ -283,13 +257,6 @@ Calculates loan credit risk classification.
 
 ### `GET /api/analytics`
 Returns aggregate statistics, monthly trends, feature importances, and chart data points.
-
----
-
-## 🔮 Future Enhancements
-- **Database Integration**: Connect PostgreSQL or MongoDB to persist historical predictions.
-- **Model Drift Monitoring**: Implement monitoring tools to track data drift and accuracy decay.
-- **Cloud Containerization**: Provide Docker/docker-compose configs for containerized service mesh deployments.
 
 ---
 
